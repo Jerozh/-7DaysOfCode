@@ -5,7 +5,6 @@ let stringTreinta = '30';
 let numeroDiez = 10;
 let stringDiez = '10';
 
-//determina si
 if (numeroUn == stringUn){
     console.log('Las variables numeroUn y stringUn tienen el mismo valor, pero tipos diferentes');
 }else{
